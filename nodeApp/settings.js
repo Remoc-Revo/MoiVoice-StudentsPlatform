@@ -1,0 +1,9 @@
+exports.dbConfig={
+    'user':'moiVoice_user',
+    'password':'moi2021.',
+    'database':'moiVoiceAppDb',
+    options:{
+        enableArithAbort:false,
+        encrypte:false,
+    }
+};
